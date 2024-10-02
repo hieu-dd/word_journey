@@ -1,6 +1,10 @@
+import 'package:json_annotation/json_annotation.dart';
 import 'package:word_journey/common/model/topic.dart';
 import 'package:word_journey/common/model/word_type.dart';
 
+part 'word.g.dart';
+
+@JsonSerializable()
 class Word {
   String text;
   List<String> meanings;
@@ -17,6 +21,10 @@ class Word {
     required this.pronunciation,
     this.examples = const [],
   });
+
+  factory Word.fromJson(Map<String, dynamic> json) => _$WordFromJson(json);
+
+  Map<String, dynamic> toJson() => _$WordToJson(this);
 
   @override
   String toString() {

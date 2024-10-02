@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
             topics: [Topic.communication],
             pronunciation: 'ˈflʌtər',
             examples: ['The bird fluttered its wings.'],
-          ).toString()),
+          ).toJson().toString()),
         ),
       ),
     );
