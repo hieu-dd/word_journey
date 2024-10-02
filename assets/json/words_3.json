@@ -1,0 +1,402 @@
+[
+  {
+    "text": "ally",
+    "meanings": ["nước đồng minh, liên minh; liên kết, kết thông gia"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["politics"],
+    "pronunciation": "æli",
+    "examples": ["The two countries are allies.", "They allied themselves with the opposition."]
+  },
+  {
+    "text": "almost",
+    "meanings": ["hầu như, gần như"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": "ɔ:lmoust",
+    "examples": ["She almost missed the bus.", "It's almost time to leave."]
+  },
+  {
+    "text": "alone",
+    "meanings": ["cô đơn, một mình"],
+    "wordTypes": ["adjective", "adverb"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'loun",
+    "examples": ["She felt alone in the crowd.", "He lives alone."]
+  },
+  {
+    "text": "along",
+    "meanings": ["dọc theo, theo; theo chiều dài, suốt theo"],
+    "wordTypes": ["preposition", "adverb"],
+    "topics": ["location"],
+    "pronunciation": "ə'lɔɳ",
+    "examples": ["They walked along the river.", "The road runs along the coast."]
+  },
+  {
+    "text": "alongside",
+    "meanings": ["sát cạnh, kế bên, dọc theo"],
+    "wordTypes": ["preposition", "adverb"],
+    "topics": ["location"],
+    "pronunciation": "ə'lɔɳ'said",
+    "examples": ["The car was parked alongside the road.", "She worked alongside her colleagues."]
+  },
+  {
+    "text": "aloud",
+    "meanings": ["lớn tiếng, to tiếng"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'laud",
+    "examples": ["She read the letter aloud.", "He laughed aloud."]
+  },
+  {
+    "text": "alphabet",
+    "meanings": ["bảng chữ cái, bước đầu, điều cơ bản"],
+    "wordTypes": ["noun"],
+    "topics": ["education"],
+    "pronunciation": "ælfəbit",
+    "examples": ["The English alphabet has 26 letters.", "Children learn the alphabet in kindergarten."]
+  },
+  {
+    "text": "alphabetical",
+    "meanings": ["thuộc bảng chữ cái"],
+    "wordTypes": ["adjective"],
+    "topics": ["education"],
+    "pronunciation": ",ælfə'betikl",
+    "examples": ["The names are listed in alphabetical order.", "She arranged the books alphabetically."]
+  },
+  {
+    "text": "alphabetically",
+    "meanings": ["theo thứ tự abc"],
+    "wordTypes": ["adverb"],
+    "topics": ["education"],
+    "pronunciation": ",ælfə'betikəli",
+    "examples": ["The files are organized alphabetically.", "Please sort the list alphabetically."]
+  },
+  {
+    "text": "already",
+    "meanings": ["đã, rồi, đã... rồi"],
+    "wordTypes": ["adverb"],
+    "topics": ["time"],
+    "pronunciation": "ɔ:l'redi",
+    "examples": ["She has already finished her homework.", "He is already here."]
+  },
+  {
+    "text": "also",
+    "meanings": ["cũng, cũng vậy, cũng thế"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": "ɔ:lsou",
+    "examples": ["She is a doctor and also a writer.", "He also likes to play tennis."]
+  },
+  {
+    "text": "alter",
+    "meanings": ["thay đổi, biến đổi, sửa đổi"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ɔ:ltə",
+    "examples": ["She had to alter her plans.", "The dress was altered to fit her."]
+  },
+  {
+    "text": "alternative",
+    "meanings": ["sự lựa chọn; lựa chọn"],
+    "wordTypes": ["noun", "adjective"],
+    "topics": ["communication"],
+    "pronunciation": "ɔ:l'tə:nətiv",
+    "examples": ["We need to find an alternative solution.", "There is an alternative route."]
+  },
+  {
+    "text": "alternatively",
+    "meanings": ["như một sự lựa chọn"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": "",
+    "examples": ["You can go by car. Alternatively, you can take the bus.", "We could go to the beach or alternatively, we could visit the museum."]
+  },
+  {
+    "text": "although",
+    "meanings": ["mặc dù, dẫu cho"],
+    "wordTypes": ["conjunction"],
+    "topics": ["communication"],
+    "pronunciation": "ɔ:l'ðou",
+    "examples": ["Although it was raining, we went for a walk.", "She didn't get the job although she was qualified."]
+  },
+  {
+    "text": "altogether",
+    "meanings": ["hoàn toàn, hầu như; nói chung"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": ",ɔ:ltə'geðə",
+    "examples": ["The project was altogether successful.", "Altogether, it was a good experience."]
+  },
+  {
+    "text": "always",
+    "meanings": ["luôn luôn"],
+    "wordTypes": ["adverb"],
+    "topics": ["time"],
+    "pronunciation": "ɔ:lwəz",
+    "examples": ["She always arrives on time.", "He always forgets his keys."]
+  },
+  {
+    "text": "amaze",
+    "meanings": ["làm ngạc nhiên, làm sửng sốt"],
+    "wordTypes": ["verb"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'meiz",
+    "examples": ["Her performance amazed everyone.", "He was amazed by the view."]
+  },
+  {
+    "text": "amazed",
+    "meanings": ["kinh ngạc, sửng sốt"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'meiz",
+    "examples": ["She was amazed at the results.", "He looked amazed."]
+  },
+  {
+    "text": "amazing",
+    "meanings": ["kinh ngạc, sửng sốt"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'meiziɳ",
+    "examples": ["The view from the top is amazing.", "She did an amazing job."]
+  },
+  {
+    "text": "ambition",
+    "meanings": ["hoài bão, khát vọng"],
+    "wordTypes": ["noun"],
+    "topics": ["emotion"],
+    "pronunciation": "æm'biʃn",
+    "examples": ["Her ambition is to become a doctor.", "He has a lot of ambition."]
+  },
+  {
+    "text": "ambulance",
+    "meanings": ["xe cứu thương, xe cấp cứu"],
+    "wordTypes": ["noun"],
+    "topics": ["health"],
+    "pronunciation": "æmbjuləns",
+    "examples": ["The ambulance arrived quickly.", "He was taken to the hospital in an ambulance."]
+  },
+  {
+    "text": "among, amongst",
+    "meanings": ["giữa, ở giữa"],
+    "wordTypes": ["preposition"],
+    "topics": ["location"],
+    "pronunciation": "ə'mʌɳ",
+    "examples": ["She was among friends.", "The house is hidden among the trees."]
+  },
+  {
+    "text": "amount",
+    "meanings": ["số lượng, số nhiều; lên tới (money)"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["finance"],
+    "pronunciation": "ə'maunt",
+    "examples": ["The total amount is $100.", "The bill amounts to $50."]
+  },
+  {
+    "text": "amuse",
+    "meanings": ["làm cho vui, thích, làm buồn cười"],
+    "wordTypes": ["verb"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'mju:z",
+    "examples": ["The clown amused the children.", "He was amused by the joke."]
+  },
+  {
+    "text": "amused",
+    "meanings": ["vui thích"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'mju:zd",
+    "examples": ["She was amused by the story.", "He looked amused."]
+  },
+  {
+    "text": "amusing",
+    "meanings": ["vui thích"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'mju:ziɳ",
+    "examples": ["The movie was very amusing.", "She found the situation amusing."]
+  },
+  {
+    "text": "analyse, analyze",
+    "meanings": ["phân tích"],
+    "wordTypes": ["verb"],
+    "topics": ["education"],
+    "pronunciation": "ænəlaiz",
+    "examples": ["She analyzed the data.", "He likes to analyze problems."]
+  },
+  {
+    "text": "analysis",
+    "meanings": ["sự phân tích"],
+    "wordTypes": ["noun"],
+    "topics": ["education"],
+    "pronunciation": "ə'næləsis",
+    "examples": ["The analysis revealed some interesting results.", "He conducted an analysis of the situation."]
+  },
+  {
+    "text": "ancient",
+    "meanings": ["xưa, cổ"],
+    "wordTypes": ["adjective"],
+    "topics": ["history"],
+    "pronunciation": "einʃənt",
+    "examples": ["They visited ancient ruins.", "The book is about ancient civilizations."]
+  },
+  {
+    "text": "and",
+    "meanings": ["và"],
+    "wordTypes": ["conjunction"],
+    "topics": ["communication"],
+    "pronunciation": "ænd, ənd, ən",
+    "examples": ["She bought apples and oranges.", "He is tall and strong."]
+  },
+  {
+    "text": "anger",
+    "meanings": ["sự tức giận, sự giận dữ"],
+    "wordTypes": ["noun"],
+    "topics": ["emotion"],
+    "pronunciation": "æɳgə",
+    "examples": ["He couldn't control his anger.", "Her anger was evident."]
+  },
+  {
+    "text": "angle",
+    "meanings": ["góc"],
+    "wordTypes": ["noun"],
+    "topics": ["science"],
+    "pronunciation": "æɳgl",
+    "examples": ["The picture was taken from a different angle.", "He measured the angle of the triangle."]
+  },
+  {
+    "text": "angrily",
+    "meanings": ["tức giận, giận dữ"],
+    "wordTypes": ["adverb"],
+    "topics": ["emotion"],
+    "pronunciation": "æɳgrili",
+    "examples": ["She spoke angrily.", "He looked at her angrily."]
+  },
+  {
+    "text": "angry",
+    "meanings": ["giận, tức giận"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "æɳgri",
+    "examples": ["She was angry with him.", "He has an angry expression."]
+  },
+  {
+    "text": "animal",
+    "meanings": ["động vật, thú vật"],
+    "wordTypes": ["noun"],
+    "topics": ["nature"],
+    "pronunciation": "æniməl",
+    "examples": ["She loves animals.", "The zoo has many different animals."]
+  },
+  {
+    "text": "ankle",
+    "meanings": ["mắt cá chân"],
+    "wordTypes": ["noun"],
+    "topics": ["health"],
+    "pronunciation": "æɳkl",
+    "examples": ["She sprained her ankle.", "He has a tattoo on his ankle."]
+  },
+  {
+    "text": "anniversary",
+    "meanings": ["ngày, lễ kỉ niệm"],
+    "wordTypes": ["noun"],
+    "topics": ["celebration"],
+    "pronunciation": ",æni'və:səri",
+    "examples": ["They celebrated their wedding anniversary.", "The company is having its 50th anniversary."]
+  },
+  {
+    "text": "announce",
+    "meanings": ["báo, thông báo"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'nauns",
+    "examples": ["They announced the winner.", "She announced her engagement."]
+  },
+  {
+    "text": "annoy",
+    "meanings": ["chọc tức, làm bực mình; làm phiền, quấy nhiễu"],
+    "wordTypes": ["verb"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'nɔi",
+    "examples": ["The noise annoyed him.", "She was annoyed by the delay."]
+  },
+  {
+    "text": "annoyed",
+    "meanings": ["bị khó chịu, bực mình, bị quấy rầy"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'nɔid",
+    "examples": ["She was annoyed with her brother.", "He looked annoyed."]
+  },
+  {
+    "text": "annoying",
+    "meanings": ["chọc tức, làm bực mình; làm phiền, quấy nhiễu"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'nɔiiɳ",
+    "examples": ["The delay was very annoying.", "She found his behavior annoying."]
+  },
+  {
+    "text": "annual",
+    "meanings": ["hàng năm, từng năm"],
+    "wordTypes": ["adjective"],
+    "topics": ["time"],
+    "pronunciation": "ænjuəl",
+    "examples": ["They have an annual meeting.", "The annual report was published."]
+  },
+  {
+    "text": "annually",
+    "meanings": ["hàng năm, từng năm"],
+    "wordTypes": ["adverb"],
+    "topics": ["time"],
+    "pronunciation": "ænjuəli",
+    "examples": ["The event is held annually.", "They review the policy annually."]
+  },
+  {
+    "text": "another",
+    "meanings": ["khác"],
+    "wordTypes": ["determiner", "pronoun"],
+    "topics": ["communication"],
+    "pronunciation": "ə'nʌðə",
+    "examples": ["She wants another piece of cake.", "He found another way to solve the problem."]
+  },
+  {
+    "text": "answer",
+    "meanings": ["sự trả lời; trả lời"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["communication"],
+    "pronunciation": "ɑ:nsə",
+    "examples": ["She gave a quick answer.", "He answered the question."]
+  },
+  {
+    "text": "anti",
+    "meanings": ["chống lại"],
+    "wordTypes": ["prefix"],
+    "topics": ["politics"],
+    "pronunciation": "",
+    "examples": ["They are anti-government.", "The anti-smoking campaign was successful."]
+  },
+  {
+    "text": "anticipate",
+    "meanings": ["thấy trước, chặn trước, lường trước"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "æn'tisipeit",
+    "examples": ["She anticipated the problem.", "He anticipated her reaction."]
+  },
+  {
+    "text": "anxiety",
+    "meanings": ["mối lo âu, sự lo lắng"],
+    "wordTypes": ["noun"],
+    "topics": ["emotion"],
+    "pronunciation": "æɳ'zaiəti",
+    "examples": ["She suffers from anxiety.", "His anxiety was evident."]
+  },
+  {
+    "text": "anxious",
+    "meanings": ["lo âu, lo lắng, băn khoăn"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "æɳkʃəs",
+    "examples": ["She is anxious about the exam.", "He looked anxious."]
+  }
+]

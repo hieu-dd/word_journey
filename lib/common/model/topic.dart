@@ -7,4 +7,18 @@ enum Topic {
   health,
   food,
   culture,
+  emotion,
+  family,
+  finance,
+  location,
+  nature,
+  politics,
+  safety,
+  science,
+  time,
+  celebration,
+  history,
+  law,
+  military,
+  tools
 }

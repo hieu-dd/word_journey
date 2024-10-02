@@ -1,0 +1,370 @@
+[
+  {
+    "text": "admit",
+    "meanings": ["nhận vào, cho vào, kết hợp"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "əd'mit",
+    "examples": ["She admitted her mistake.", "He was admitted to the university."]
+  },
+  {
+    "text": "adopt",
+    "meanings": ["nhận làm con nuôi, bố mẹ nuôi"],
+    "wordTypes": ["verb"],
+    "topics": ["family"],
+    "pronunciation": "ə'dɔpt",
+    "examples": ["They decided to adopt a child.", "She adopted a new approach to teaching."]
+  },
+  {
+    "text": "adult",
+    "meanings": ["người lớn, người trưởng thành, trưởng thành"],
+    "wordTypes": ["noun", "adjective"],
+    "topics": ["health"],
+    "pronunciation": "ædʌlt",
+    "examples": ["He is an adult now.", "The book is for adult readers."]
+  },
+  {
+    "text": "advance",
+    "meanings": ["sự tiến bộ, tiến lên; đưa lên, đề xuất"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["education"],
+    "pronunciation": "əd'vɑ:ns",
+    "examples": ["The advance in technology is remarkable.", "She advanced her career through hard work."]
+  },
+  {
+    "text": "advanced",
+    "meanings": ["tiên tiến, tiến bộ, cấp cao. in advance trước, sớm"],
+    "wordTypes": ["adjective"],
+    "topics": ["education"],
+    "pronunciation": "əd'vɑ:nst",
+    "examples": ["He is taking an advanced course in mathematics.", "Please notify us in advance."]
+  },
+  {
+    "text": "advantage",
+    "meanings": ["sự thuận lợi, lợi ích, lợi thế. take advantage of lợi dụng"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "əb'vɑ:ntidʤ",
+    "examples": ["He has the advantage of experience.", "She took advantage of the opportunity."]
+  },
+  {
+    "text": "adventure",
+    "meanings": ["sự phiêu lưu, mạo hiểm"],
+    "wordTypes": ["noun"],
+    "topics": ["travel"],
+    "pronunciation": "əd'ventʃə",
+    "examples": ["They went on an adventure in the mountains.", "The book is about a thrilling adventure."]
+  },
+  {
+    "text": "advertise",
+    "meanings": ["báo cho biết, báo cho biết trước"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ædvətaiz",
+    "examples": ["They advertised the event on social media.", "The company advertised for a new manager."]
+  },
+  {
+    "text": "advertisement",
+    "meanings": ["quảng cáo"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "əd'və:tismənt",
+    "examples": ["The advertisement was very effective.", "She saw an advertisement for a new car."]
+  },
+  {
+    "text": "advertising",
+    "meanings": ["sự quảng cáo, nghề quảng cáo"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "",
+    "examples": ["He works in advertising.", "The company spends a lot on advertising."]
+  },
+  {
+    "text": "advice",
+    "meanings": ["lời khuyên, lời chỉ bảo"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "əd'vais",
+    "examples": ["She gave me some good advice.", "He asked for advice on the matter."]
+  },
+  {
+    "text": "advise",
+    "meanings": ["khuyên, khuyên bảo, răn bảo"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "əd'vaiz",
+    "examples": ["She advised him to see a doctor.", "He advised against taking the risk."]
+  },
+  {
+    "text": "affair",
+    "meanings": ["việc"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "ə'feə",
+    "examples": ["The affair was kept secret.", "She handled the affair with discretion."]
+  },
+  {
+    "text": "affect",
+    "meanings": ["làm ảnh hưởng, tác động đến"],
+    "wordTypes": ["verb"],
+    "topics": ["health"],
+    "pronunciation": "ə'fekt",
+    "examples": ["The weather can affect your mood.", "The new law will affect many people."]
+  },
+  {
+    "text": "affection",
+    "meanings": ["tình cảm, sự yêu mến"],
+    "wordTypes": ["noun"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'fekʃn",
+    "examples": ["She has a deep affection for her family.", "He showed his affection by giving her flowers."]
+  },
+  {
+    "text": "afford",
+    "meanings": ["có thể, có đủ khả năng, điều kiện (làm gì)"],
+    "wordTypes": ["verb"],
+    "topics": ["finance"],
+    "pronunciation": "ə'fɔ:d",
+    "examples": ["She can't afford to buy a new car.", "He can afford to take a vacation."]
+  },
+  {
+    "text": "afraid",
+    "meanings": ["sợ, sợ hãi, hoảng sợ"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'freid",
+    "examples": ["She is afraid of spiders.", "He was afraid to speak in public."]
+  },
+  {
+    "text": "after",
+    "meanings": ["sau, đằng sau, sau khi"],
+    "wordTypes": ["preposition", "conjunction", "adverb"],
+    "topics": ["time"],
+    "pronunciation": "ɑ:ftə",
+    "examples": ["She went home after the meeting.", "He arrived after she left."]
+  },
+  {
+    "text": "afternoon",
+    "meanings": ["buổi chiều"],
+    "wordTypes": ["noun"],
+    "topics": ["time"],
+    "pronunciation": "ɑ:ftə'nu:n",
+    "examples": ["She has a meeting in the afternoon.", "They went for a walk in the afternoon."]
+  },
+  {
+    "text": "afterwards",
+    "meanings": ["sau này, về sau, rồi thì, sau đây"],
+    "wordTypes": ["adverb"],
+    "topics": ["time"],
+    "pronunciation": "ɑ:ftəwəd",
+    "examples": ["We went to the cinema and afterwards we had dinner.", "She felt better afterwards."]
+  },
+  {
+    "text": "again",
+    "meanings": ["lại, nữa, lần nữa"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'gen",
+    "examples": ["She tried again and succeeded.", "He will visit us again next week."]
+  },
+  {
+    "text": "against",
+    "meanings": ["chống lại, phản đối"],
+    "wordTypes": ["preposition"],
+    "topics": ["communication"],
+    "pronunciation": "ə'geinst",
+    "examples": ["They are against the new policy.", "She leaned against the wall."]
+  },
+  {
+    "text": "age",
+    "meanings": ["tuổi"],
+    "wordTypes": ["noun"],
+    "topics": ["health"],
+    "pronunciation": "eidʤ",
+    "examples": ["She is 30 years of age.", "Age is just a number."]
+  },
+  {
+    "text": "aged",
+    "meanings": ["già đi"],
+    "wordTypes": ["adjective"],
+    "topics": ["health"],
+    "pronunciation": "eidʤid",
+    "examples": ["He has aged well.", "The wine is aged for several years."]
+  },
+  {
+    "text": "agency",
+    "meanings": ["tác dụng, lực; môi giới, trung gian"],
+    "wordTypes": ["noun"],
+    "topics": ["business"],
+    "pronunciation": "eidʤənsi",
+    "examples": ["She works for a travel agency.", "The agency handles all our advertising."]
+  },
+  {
+    "text": "agent",
+    "meanings": ["đại lý, tác nhân"],
+    "wordTypes": ["noun"],
+    "topics": ["business"],
+    "pronunciation": "eidʤənt",
+    "examples": ["He is a real estate agent.", "The agent negotiated the deal."]
+  },
+  {
+    "text": "aggressive",
+    "meanings": ["xâm lược, hung hăng (US: xông xáo)"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'gresiv",
+    "examples": ["He has an aggressive personality.", "The company is pursuing an aggressive marketing strategy."]
+  },
+  {
+    "text": "ago",
+    "meanings": ["trước đây"],
+    "wordTypes": ["adverb"],
+    "topics": ["time"],
+    "pronunciation": "ə'gou",
+    "examples": ["She moved here two years ago.", "Long ago, people lived in caves."]
+  },
+  {
+    "text": "agree",
+    "meanings": ["đồng ý, tán thành"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'gri:",
+    "examples": ["They agreed to the terms.", "I agree with your opinion."]
+  },
+  {
+    "text": "agreement",
+    "meanings": ["sự đồng ý, tán thành; hiệp định, hợp đồng"],
+    "wordTypes": ["noun"],
+    "topics": ["business"],
+    "pronunciation": "ə'gri:mənt",
+    "examples": ["They reached an agreement.", "The agreement was signed yesterday."]
+  },
+  {
+    "text": "ahead",
+    "meanings": ["trước, về phía trước"],
+    "wordTypes": ["adverb"],
+    "topics": ["location"],
+    "pronunciation": "ə'hed",
+    "examples": ["The road ahead is clear.", "She has a bright future ahead."]
+  },
+  {
+    "text": "aid",
+    "meanings": ["sự giúp đỡ; thêm vào, phụ vào"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["health"],
+    "pronunciation": "eid",
+    "examples": ["They provided aid to the victims.", "He aided her in the project."]
+  },
+  {
+    "text": "aim",
+    "meanings": ["sự nhắm (bắn), mục tiêu, ý định; nhắm, tập trung, hướng vào"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["communication"],
+    "pronunciation": "eim",
+    "examples": ["Her aim is to become a doctor.", "He aimed the gun at the target."]
+  },
+  {
+    "text": "air",
+    "meanings": ["không khí, bầu không khí, không gian"],
+    "wordTypes": ["noun"],
+    "topics": ["nature"],
+    "pronunciation": "eə",
+    "examples": ["The air is fresh and clean.", "She loves the open air."]
+  },
+  {
+    "text": "aircraft",
+    "meanings": ["máy bay, khí cầu"],
+    "wordTypes": ["noun"],
+    "topics": ["travel"],
+    "pronunciation": "eəkrɑ:ft",
+    "examples": ["The aircraft landed safely.", "He is a pilot of a commercial aircraft."]
+  },
+  {
+    "text": "airport",
+    "meanings": ["sân bay, phi trường"],
+    "wordTypes": ["noun"],
+    "topics": ["travel"],
+    "pronunciation": "",
+    "examples": ["She arrived at the airport early.", "The airport is very busy."]
+  },
+  {
+    "text": "alarm",
+    "meanings": ["báo động, báo nguy"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["safety"],
+    "pronunciation": "ə'lɑ:m",
+    "examples": ["The alarm went off at 6 AM.", "He was alarmed by the news."]
+  },
+  {
+    "text": "alarmed",
+    "meanings": ["báo động"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'lɑ:m",
+    "examples": ["She was alarmed by the sudden noise.", "He looked alarmed."]
+  },
+  {
+    "text": "alarming",
+    "meanings": ["làm lo sợ, làm hốt hoảng, làm sợ hãi"],
+    "wordTypes": ["adjective"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'lɑ:miɳ",
+    "examples": ["The news is alarming.", "There is an alarming increase in crime."]
+  },
+  {
+    "text": "alcohol",
+    "meanings": ["rượu cồn"],
+    "wordTypes": ["noun"],
+    "topics": ["health"],
+    "pronunciation": "ælkəhɔl",
+    "examples": ["He doesn't drink alcohol.", "Alcohol can be harmful to your health."]
+  },
+  {
+    "text": "alcoholic",
+    "meanings": ["rượu; người nghiện rượu"],
+    "wordTypes": ["adjective", "noun"],
+    "topics": ["health"],
+    "pronunciation": ",ælkə'hɔlik",
+    "examples": ["He is an alcoholic.", "She avoids alcoholic beverages."]
+  },
+  {
+    "text": "alive",
+    "meanings": ["sống, vẫn còn sống, còn tồn tại"],
+    "wordTypes": ["adjective"],
+    "topics": ["health"],
+    "pronunciation": "ə'laiv",
+    "examples": ["She is alive and well.", "The city comes alive at night."]
+  },
+  {
+    "text": "all",
+    "meanings": ["tất cả"],
+    "wordTypes": ["pronoun", "adverb"],
+    "topics": ["communication"],
+    "pronunciation": "ɔ:l",
+    "examples": ["All the students passed the exam.", "She gave her all to the project."]
+  },
+  {
+    "text": "all right",
+    "meanings": ["tốt, ổn, khỏe mạnh; được"],
+    "wordTypes": ["adjective", "adverb"],
+    "topics": ["communication"],
+    "pronunciation": "ɔ:l'rait",
+    "examples": ["Everything is all right.", "She is feeling all right now."]
+  },
+  {
+    "text": "allied",
+    "meanings": ["liên minh, đồng minh, thông gia"],
+    "wordTypes": ["adjective"],
+    "topics": ["politics"],
+    "pronunciation": "ə'laid",
+    "examples": ["The allied forces won the battle.", "They are allied in their efforts."]
+  },
+  {
+    "text": "allow",
+    "meanings": ["cho phép, để cho"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'lau",
+    "examples": ["She allowed him to go out.", "They don't allow smoking in the building."]
+  }
+]

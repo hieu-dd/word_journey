@@ -1,0 +1,927 @@
+[
+  {
+    "text": "a",
+    "meanings": [
+      "nhỏ, một ít"
+    ],
+    "wordTypes": [
+      "pronoun"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "",
+    "examples": [
+      "I have a few questions.",
+      "She needs a little help."
+    ]
+  },
+  {
+    "text": "abandon",
+    "meanings": [
+      "bỏ, từ bỏ"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "emotion"
+    ],
+    "pronunciation": "ə'bændən",
+    "examples": [
+      "He decided to abandon the project.",
+      "They had to abandon their home."
+    ]
+  },
+  {
+    "text": "abandoned",
+    "meanings": [
+      "bị bỏ rơi, bị ruồng bỏ"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "emotion"
+    ],
+    "pronunciation": "ə'bændənd",
+    "examples": [
+      "The abandoned house looked eerie.",
+      "She felt abandoned by her friends."
+    ]
+  },
+  {
+    "text": "ability",
+    "meanings": [
+      "khả năng, năng lực"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "ə'biliti",
+    "examples": [
+      "She has the ability to solve complex problems.",
+      "His ability to play the piano is impressive."
+    ]
+  },
+  {
+    "text": "able",
+    "meanings": [
+      "có năng lực, có tài"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "eibl",
+    "examples": [
+      "She is able to speak three languages.",
+      "He is an able leader."
+    ]
+  },
+  {
+    "text": "about",
+    "meanings": [
+      "khoảng, về"
+    ],
+    "wordTypes": [
+      "adverb",
+      "preposition"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ə'baut",
+    "examples": [
+      "We talked about the new project.",
+      "The book is about history."
+    ]
+  },
+  {
+    "text": "above",
+    "meanings": [
+      "ở trên, lên trên"
+    ],
+    "wordTypes": [
+      "preposition",
+      "adverb"
+    ],
+    "topics": [
+      "location"
+    ],
+    "pronunciation": "ə'bʌv",
+    "examples": [
+      "The plane flew above the clouds.",
+      "Her grades are above average."
+    ]
+  },
+  {
+    "text": "abroad",
+    "meanings": [
+      "ở, ra nước ngoài, ngoài trời"
+    ],
+    "wordTypes": [
+      "adverb"
+    ],
+    "topics": [
+      "travel"
+    ],
+    "pronunciation": "ə'brɔ:d",
+    "examples": [
+      "She studied abroad for a year.",
+      "They are traveling abroad this summer."
+    ]
+  },
+  {
+    "text": "absence",
+    "meanings": [
+      "sự vắng mặt"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "æbsəns",
+    "examples": [
+      "Her absence was noticed by everyone.",
+      "The absence of evidence is not evidence of absence."
+    ]
+  },
+  {
+    "text": "absent",
+    "meanings": [
+      "vắng mặt, nghỉ"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "æbsənt",
+    "examples": [
+      "He was absent from the meeting.",
+      "She has been absent for two days."
+    ]
+  },
+  {
+    "text": "absolute",
+    "meanings": [
+      "tuyệt đối, hoàn toàn"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "æbsəlu:t",
+    "examples": [
+      "He demanded absolute silence.",
+      "Her trust in him was absolute."
+    ]
+  },
+  {
+    "text": "absolutely",
+    "meanings": [
+      "tuyệt đối, hoàn toàn"
+    ],
+    "wordTypes": [
+      "adverb"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "æbsəlu:tli",
+    "examples": [
+      "I absolutely agree with you.",
+      "She was absolutely certain."
+    ]
+  },
+  {
+    "text": "absorb",
+    "meanings": [
+      "thu hút, hấp thu, lôi cuốn"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "science"
+    ],
+    "pronunciation": "əb'sɔ:b",
+    "examples": [
+      "Plants absorb sunlight.",
+      "He was absorbed in his book."
+    ]
+  },
+  {
+    "text": "abuse",
+    "meanings": [
+      "lộng hành, lạm dụng"
+    ],
+    "wordTypes": [
+      "noun",
+      "verb"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": "ə'bju:s",
+    "examples": [
+      "The abuse of power is a serious issue.",
+      "He was accused of abusing his position."
+    ]
+  },
+  {
+    "text": "academic",
+    "meanings": [
+      "thuộc học viện, ĐH, viện hàn lâm"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": ",ækə'demik",
+    "examples": [
+      "She has an academic background in biology.",
+      "The academic year starts in September."
+    ]
+  },
+  {
+    "text": "accent",
+    "meanings": [
+      "trọng âm, dấu trọng âm"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "æksənt",
+    "examples": [
+      "He has a strong British accent.",
+      "The accent is on the first syllable."
+    ]
+  },
+  {
+    "text": "accept",
+    "meanings": [
+      "chấp nhận, chấp thuận"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ək'sept",
+    "examples": [
+      "She accepted the job offer.",
+      "He accepted the gift graciously."
+    ]
+  },
+  {
+    "text": "acceptable",
+    "meanings": [
+      "có thể chấp nhận, chấp thuận"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ək'septəbl",
+    "examples": [
+      "The proposal was acceptable to everyone.",
+      "Her behavior was not acceptable."
+    ]
+  },
+  {
+    "text": "access",
+    "meanings": [
+      "lối, cửa, đường vào"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "pronunciation": "ækses",
+    "examples": [
+      "The building has wheelchair access.",
+      "He gained access to the restricted area."
+    ]
+  },
+  {
+    "text": "accident",
+    "meanings": [
+      "tai nạn, rủi ro. by accident: tình cờ"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": "æksidənt",
+    "examples": [
+      "She was injured in a car accident.",
+      "He found the solution by accident."
+    ]
+  },
+  {
+    "text": "accidental",
+    "meanings": [
+      "tình cờ, bất ngờ"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": ",æksi'dentl",
+    "examples": [
+      "It was an accidental discovery.",
+      "She made an accidental mistake."
+    ]
+  },
+  {
+    "text": "accidentally",
+    "meanings": [
+      "tình cờ, ngẫu nhiên"
+    ],
+    "wordTypes": [
+      "adverb"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": ",æksi'dentəli",
+    "examples": [
+      "She accidentally deleted the file.",
+      "He accidentally spilled the coffee."
+    ]
+  },
+  {
+    "text": "accommodation",
+    "meanings": [
+      "sự thích nghi, sự điều tiết, sự làm cho phù hợp"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "travel"
+    ],
+    "pronunciation": "ə,kɔmə'deiʃn",
+    "examples": [
+      "They provided accommodation for the guests.",
+      "The hotel offers comfortable accommodation."
+    ]
+  },
+  {
+    "text": "accompany",
+    "meanings": [
+      "đi theo, đi cùng, kèm theo"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "travel"
+    ],
+    "pronunciation": "ə'kʌmpəni",
+    "examples": [
+      "She will accompany him on the trip.",
+      "The meal was accompanied by wine."
+    ]
+  },
+  {
+    "text": "according to",
+    "meanings": [
+      "theo, y theo"
+    ],
+    "wordTypes": [
+      "preposition"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ə'kɔ:diɳ",
+    "examples": [
+      "According to the report, sales have increased.",
+      "She acted according to the instructions."
+    ]
+  },
+  {
+    "text": "account",
+    "meanings": [
+      "tài khoản, kế toán; tính toán, tính đến"
+    ],
+    "wordTypes": [
+      "noun",
+      "verb"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "pronunciation": "ə'kaunt",
+    "examples": [
+      "He opened a bank account.",
+      "She accounted for every penny spent."
+    ]
+  },
+  {
+    "text": "accurate",
+    "meanings": [
+      "đúng đắn, chính xác, xác đáng"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "ækjurit",
+    "examples": [
+      "The information is accurate.",
+      "She gave an accurate description."
+    ]
+  },
+  {
+    "text": "accurately",
+    "meanings": [
+      "đúng đắn, chính xác"
+    ],
+    "wordTypes": [
+      "adverb"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "ækjuritli",
+    "examples": [
+      "He accurately predicted the outcome.",
+      "The data was accurately recorded."
+    ]
+  },
+  {
+    "text": "accuse",
+    "meanings": [
+      "tố cáo, buộc tội, kết tội"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ə'kju:z",
+    "examples": [
+      "She was accused of stealing.",
+      "He accused her of lying."
+    ]
+  },
+  {
+    "text": "achieve",
+    "meanings": [
+      "đạt được, dành được"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "ə'tʃi:v",
+    "examples": [
+      "She achieved her goal.",
+      "He achieved success through hard work."
+    ]
+  },
+  {
+    "text": "achievement",
+    "meanings": [
+      "thành tích, thành tựu"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "ə'tʃi:vmənt",
+    "examples": [
+      "Her achievements are impressive.",
+      "He received an award for his achievements."
+    ]
+  },
+  {
+    "text": "acid",
+    "meanings": [
+      "axit"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "science"
+    ],
+    "pronunciation": "æsid",
+    "examples": [
+      "The solution contains acid.",
+      "Acid can be dangerous if not handled properly."
+    ]
+  },
+  {
+    "text": "acknowledge",
+    "meanings": [
+      "công nhận, thừa nhận"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ək'nɔlidʤ",
+    "examples": [
+      "She acknowledged her mistake.",
+      "He acknowledged the help he received."
+    ]
+  },
+  {
+    "text": "acquire",
+    "meanings": [
+      "dành được, đạt được, kiếm được"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "ə'kwaiə",
+    "examples": [
+      "She acquired new skills.",
+      "He acquired a taste for classical music."
+    ]
+  },
+  {
+    "text": "across",
+    "meanings": [
+      "qua, ngang qua"
+    ],
+    "wordTypes": [
+      "adverb",
+      "preposition"
+    ],
+    "topics": [
+      "location"
+    ],
+    "pronunciation": "ə'krɔs",
+    "examples": [
+      "She walked across the street.",
+      "The bridge spans across the river."
+    ]
+  },
+  {
+    "text": "act",
+    "meanings": [
+      "hành động, hành vi, cử chỉ, đối xử"
+    ],
+    "wordTypes": [
+      "noun",
+      "verb"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ækt",
+    "examples": [
+      "He performed a brave act.",
+      "She acted quickly to save him."
+    ]
+  },
+  {
+    "text": "action",
+    "meanings": [
+      "hành động, hành vi, tác động. Take action: hành động"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ækʃn",
+    "examples": [
+      "The government took action to address the issue.",
+      "Her actions speak louder than words."
+    ]
+  },
+  {
+    "text": "active",
+    "meanings": [
+      "tích cực hoạt động, nhanh nhẹn"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": "æktiv",
+    "examples": [
+      "She leads an active lifestyle.",
+      "He is an active member of the community."
+    ]
+  },
+  {
+    "text": "actively",
+    "meanings": [
+      "tích cực hoạt động; nhanh nhẹn, linh lợi; có hiệu lực"
+    ],
+    "wordTypes": [
+      "adverb"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": "æktivli",
+    "examples": [
+      "She is actively involved in charity work.",
+      "He actively participates in class."
+    ]
+  },
+  {
+    "text": "activity",
+    "meanings": [
+      "sự tích cực, sự hoạt động, sự nhanh nhẹn, sự linh lợi"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": "æk'tiviti",
+    "examples": [
+      "Physical activity is important for health.",
+      "The children enjoyed the outdoor activities."
+    ]
+  },
+  {
+    "text": "actor",
+    "meanings": [
+      "diễn viên nam"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "pronunciation": "æktə",
+    "examples": [
+      "He is a famous actor.",
+      "The actor received an award for his performance."
+    ]
+  },
+  {
+    "text": "actress",
+    "meanings": [
+      "diễn viên nữ"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "culture"
+    ],
+    "pronunciation": "æktris",
+    "examples": [
+      "She is a talented actress.",
+      "The actress starred in a new movie."
+    ]
+  },
+  {
+    "text": "actual",
+    "meanings": [
+      "thực tế, có thật"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "æktjuəl",
+    "examples": [
+      "The actual cost was higher than expected.",
+      "He is the actual owner of the property."
+    ]
+  },
+  {
+    "text": "actually",
+    "meanings": [
+      "hiện nay, hiện tại"
+    ],
+    "wordTypes": [
+      "adverb"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "æktjuəli",
+    "examples": [
+      "She actually finished the project early.",
+      "He is actually very kind."
+    ]
+  },
+  {
+    "text": "adapt",
+    "meanings": [
+      "tra, lắp vào"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "pronunciation": "ə'dæpt",
+    "examples": [
+      "She adapted to the new environment.",
+      "He adapted the machine for better performance."
+    ]
+  },
+  {
+    "text": "add",
+    "meanings": [
+      "cộng, thêm vào"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "æd",
+    "examples": [
+      "She added sugar to her coffee.",
+      "He added a new feature to the app."
+    ]
+  },
+  {
+    "text": "addition",
+    "meanings": [
+      "tính cộng, phép cộng"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "ə'diʃn",
+    "examples": [
+      "The addition of new members improved the team.",
+      "He is learning addition in math class."
+    ]
+  },
+  {
+    "text": "additional",
+    "meanings": [
+      "thêm vào, tăng thêm"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "education"
+    ],
+    "pronunciation": "ə'diʃənl",
+    "examples": [
+      "They provided additional information.",
+      "She requested additional time to complete the task."
+    ]
+  },
+  {
+    "text": "address",
+    "meanings": [
+      "địa chỉ, đề địa chỉ"
+    ],
+    "wordTypes": [
+      "noun",
+      "verb"
+    ],
+    "topics": [
+      "communication"
+    ],
+    "pronunciation": "ə'dres",
+    "examples": [
+      "He wrote the address on the envelope.",
+      "She addressed the letter to her friend."
+    ]
+  },
+  {
+    "text": "adequate",
+    "meanings": [
+      "đầy, đầy đủ"
+    ],
+    "wordTypes": [
+      "adjective"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": "ædikwit",
+    "examples": [
+      "The food supply is adequate for the population.",
+      "She received adequate training for the job."
+    ]
+  },
+  {
+    "text": "adequately",
+    "meanings": [
+      "tương xứng, thỏa đáng"
+    ],
+    "wordTypes": [
+      "adverb"
+    ],
+    "topics": [
+      "health"
+    ],
+    "pronunciation": "ædikwitli",
+    "examples": [
+      "The problem was adequately addressed.",
+      "He was adequately prepared for the exam."
+    ]
+  },
+  {
+    "text": "adjust",
+    "meanings": [
+      "sửa lại cho đúng, điều chỉnh"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "technology"
+    ],
+    "pronunciation": "ə'dʤʌst",
+    "examples": [
+      "She adjusted the settings on her phone.",
+      "He adjusted his tie before the meeting."
+    ]
+  },
+  {
+    "text": "admiration",
+    "meanings": [
+      "sự khâm phục, thán phục"
+    ],
+    "wordTypes": [
+      "noun"
+    ],
+    "topics": [
+      "emotion"
+    ],
+    "pronunciation": ",ædmə'reiʃn",
+    "examples": [
+      "She looked at him with admiration.",
+      "His achievements earned him admiration."
+    ]
+  },
+  {
+    "text": "admire",
+    "meanings": [
+      "khâm phục, thán phục"
+    ],
+    "wordTypes": [
+      "verb"
+    ],
+    "topics": [
+      "emotion"
+    ],
+    "pronunciation": "əd'maiə",
+    "examples": [
+      "She admires his dedication.",
+      "He admired the beautiful scenery."
+    ]
+  }
+]

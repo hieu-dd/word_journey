@@ -7,4 +7,6 @@ enum WordType {
   preposition,
   conjunction,
   interjection,
+  determiner,
+  prefix
 }

@@ -1,0 +1,402 @@
+[
+  {
+    "text": "anxiously",
+    "meanings": ["lo âu, lo lắng, băn khoăn"],
+    "wordTypes": ["adverb"],
+    "topics": ["emotion"],
+    "pronunciation": "æɳkʃəsli",
+    "examples": ["She waited anxiously for the results.", "He looked at her anxiously."]
+  },
+  {
+    "text": "any",
+    "meanings": ["một người, vật nào đó; bất cứ; một chút nào, tí nào"],
+    "wordTypes": ["determiner", "pronoun", "adverb"],
+    "topics": ["communication"],
+    "pronunciation": "",
+    "examples": ["Do you have any questions?", "She didn't see any reason to stay."]
+  },
+  {
+    "text": "anyone (anybody)",
+    "meanings": ["người nào, bất cứ ai"],
+    "wordTypes": ["pronoun"],
+    "topics": ["communication"],
+    "pronunciation": "eniwʌn",
+    "examples": ["Anyone can join the club.", "Is there anybody home?"]
+  },
+  {
+    "text": "anything",
+    "meanings": ["việc gì, vật gì; bất cứ việc gì, vật gì"],
+    "wordTypes": ["pronoun"],
+    "topics": ["communication"],
+    "pronunciation": "eniθiɳ",
+    "examples": ["Do you need anything?", "She didn't say anything."]
+  },
+  {
+    "text": "anyway",
+    "meanings": ["thế nào cũng được, dù sao chăng nữa"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": "eniwei",
+    "examples": ["Anyway, let's move on.", "She didn't like the idea, but she agreed anyway."]
+  },
+  {
+    "text": "anywhere",
+    "meanings": ["bất cứ chỗ nào, bất cứ nơi đâu"],
+    "wordTypes": ["adverb"],
+    "topics": ["location"],
+    "pronunciation": "eniweə",
+    "examples": ["You can find this book anywhere.", "Is there anywhere we can sit?"]
+  },
+  {
+    "text": "apart",
+    "meanings": ["về một bên, qua một bên"],
+    "wordTypes": ["adverb"],
+    "topics": ["location"],
+    "pronunciation": "ə'pɑ:t",
+    "examples": ["They live apart now.", "She stood apart from the group."]
+  },
+  {
+    "text": "apart from",
+    "meanings": ["ngoài... ra"],
+    "wordTypes": ["preposition"],
+    "topics": ["communication"],
+    "pronunciation": "ə'pɑ:t",
+    "examples": ["Apart from the weather, the trip was great.", "Apart from John, everyone was present."]
+  },
+  {
+    "text": "apart from, aside from",
+    "meanings": ["ngoài ra"],
+    "wordTypes": ["preposition"],
+    "topics": ["communication"],
+    "pronunciation": "",
+    "examples": ["Aside from the cost, the project is feasible.", "Aside from a few minor issues, everything is fine."]
+  },
+  {
+    "text": "apartment",
+    "meanings": ["căn phòng, căn buồng"],
+    "wordTypes": ["noun"],
+    "topics": ["location"],
+    "pronunciation": "ə'pɑ:tmənt",
+    "examples": ["She lives in a small apartment.", "The apartment is on the third floor."]
+  },
+  {
+    "text": "apologize",
+    "meanings": ["xin lỗi, tạ lỗi"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'pɔlədʤaiz",
+    "examples": ["She apologized for her mistake.", "He apologized to her for being late."]
+  },
+  {
+    "text": "apparent",
+    "meanings": ["rõ ràng, rành mạch; bề ngoài, có vẻ"],
+    "wordTypes": ["adjective"],
+    "topics": ["communication"],
+    "pronunciation": "ə'pærənt",
+    "examples": ["It was apparent that she was upset.", "His apparent lack of interest was concerning."]
+  },
+  {
+    "text": "apparently",
+    "meanings": ["nhìn bên ngoài, hình như"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": "",
+    "examples": ["Apparently, he didn't know about the meeting.", "She was apparently unaware of the situation."]
+  },
+  {
+    "text": "appeal",
+    "meanings": ["sự kêu gọi, lời kêu gọi; kêu gọi, cầu khẩn"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'pi:l",
+    "examples": ["The charity made an appeal for donations.", "He appealed to the crowd for calm."]
+  },
+  {
+    "text": "appear",
+    "meanings": ["xuất hiện, hiện ra, trình diện"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'piə",
+    "examples": ["She appeared suddenly.", "He appeared in court."]
+  },
+  {
+    "text": "appearance",
+    "meanings": ["sự xuất hiện, sự trình diện"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "ə'piərəns",
+    "examples": ["Her appearance was unexpected.", "He made a brief appearance at the party."]
+  },
+  {
+    "text": "apple",
+    "meanings": ["quả táo"],
+    "wordTypes": ["noun"],
+    "topics": ["food"],
+    "pronunciation": "æpl",
+    "examples": ["She ate an apple for breakfast.", "The apple tree is in full bloom."]
+  },
+  {
+    "text": "application",
+    "meanings": ["sự gắn vào, vật gắn vào; sự chuyên cần, chuyên tâm"],
+    "wordTypes": ["noun"],
+    "topics": ["technology"],
+    "pronunciation": ",æpli'keiʃn",
+    "examples": ["She submitted her job application.", "The application of this technology is widespread."]
+  },
+  {
+    "text": "apply",
+    "meanings": ["gắn vào, ghép vào, áp dụng vào"],
+    "wordTypes": ["verb"],
+    "topics": ["technology"],
+    "pronunciation": "ə'plai",
+    "examples": ["She applied for the job.", "He applied the new method to his work."]
+  },
+  {
+    "text": "appoint",
+    "meanings": ["bổ nhiệm, chỉ định, chọn"],
+    "wordTypes": ["verb"],
+    "topics": ["business"],
+    "pronunciation": "ə'pɔint",
+    "examples": ["She was appointed as the new manager.", "They appointed him to the committee."]
+  },
+  {
+    "text": "appointment",
+    "meanings": ["sự bổ nhiệm, người được bổ nhiệm"],
+    "wordTypes": ["noun"],
+    "topics": ["business"],
+    "pronunciation": "ə'pɔintmənt",
+    "examples": ["She has a doctor's appointment.", "His appointment as CEO was announced."]
+  },
+  {
+    "text": "appreciate",
+    "meanings": ["thấy rõ; nhận thức"],
+    "wordTypes": ["verb"],
+    "topics": ["emotion"],
+    "pronunciation": "ə'pri:ʃieit",
+    "examples": ["I appreciate your help.", "She appreciates the support."]
+  },
+  {
+    "text": "approach",
+    "meanings": ["đến gần, lại gần; sự đến gần, sự lại gần"],
+    "wordTypes": ["verb", "noun"],
+    "topics": ["communication"],
+    "pronunciation": "ə'proutʃ",
+    "examples": ["She approached the podium.", "His approach to the problem was innovative."]
+  },
+  {
+    "text": "appropriate (to, for)",
+    "meanings": ["thích hợp, thích đáng"],
+    "wordTypes": ["adjective"],
+    "topics": ["communication"],
+    "pronunciation": "ə'proupriit",
+    "examples": ["Her dress was appropriate for the occasion.", "The response was appropriate to the situation."]
+  },
+  {
+    "text": "approval",
+    "meanings": ["sự tán thành, đồng ý, sự chấp thuận"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "ə'pru:vəl",
+    "examples": ["She received approval for her project.", "His plan met with approval."]
+  },
+  {
+    "text": "approve (of)",
+    "meanings": ["tán thành, đồng ý, chấp thuận"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'pru:v",
+    "examples": ["Her parents approve of her decision.", "The committee approved the proposal."]
+  },
+  {
+    "text": "approving",
+    "meanings": ["tán thành, đồng ý, chấp thuận"],
+    "wordTypes": ["adjective"],
+    "topics": ["communication"],
+    "pronunciation": "ə'pru:viɳ",
+    "examples": ["She gave an approving nod.", "He looked at her with approving eyes."]
+  },
+  {
+    "text": "approximate",
+    "meanings": ["giống với, giống hệt với"],
+    "wordTypes": ["adjective"],
+    "topics": ["communication"],
+    "pronunciation": "ə'prɔksimit",
+    "examples": ["The approximate cost is $100.", "The measurements are approximate."]
+  },
+  {
+    "text": "approximately",
+    "meanings": ["khoảng chừng, độ chừng"],
+    "wordTypes": ["adverb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'prɔksimitli",
+    "examples": ["The journey takes approximately two hours.", "There were approximately 50 people at the event."]
+  },
+  {
+    "text": "April (abbr Apr)",
+    "meanings": ["tháng Tư"],
+    "wordTypes": ["noun"],
+    "topics": ["time"],
+    "pronunciation": "eiprəl",
+    "examples": ["Her birthday is in April.", "The event is scheduled for April."]
+  },
+  {
+    "text": "area",
+    "meanings": ["diện tích, bề mặt"],
+    "wordTypes": ["noun"],
+    "topics": ["location"],
+    "pronunciation": "eəriə",
+    "examples": ["The area of the park is large.", "They live in a rural area."]
+  },
+  {
+    "text": "argue",
+    "meanings": ["chứng tỏ, chỉ rõ"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ɑ:gju:",
+    "examples": ["They argued about the best course of action.", "She argued that the decision was unfair."]
+  },
+  {
+    "text": "argument",
+    "meanings": ["lý lẽ"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "ɑ:gjumənt",
+    "examples": ["They had a heated argument.", "His argument was convincing."]
+  },
+  {
+    "text": "arise",
+    "meanings": ["xuất hiện, nảy ra, nảy sinh ra"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'raiz",
+    "examples": ["Problems may arise if you don't follow the instructions.", "A new opportunity has arisen."]
+  },
+  {
+    "text": "arm",
+    "meanings": ["cánh tay; vũ trang, trang bị (vũ khí)"],
+    "wordTypes": ["noun", "verb"],
+    "topics": ["health", "military"],
+    "pronunciation": "ɑ:m",
+    "examples": ["He broke his arm.", "The soldiers were armed with rifles."]
+  },
+  {
+    "text": "armed",
+    "meanings": ["vũ trang"],
+    "wordTypes": ["adjective"],
+    "topics": ["military"],
+    "pronunciation": "ɑ:md",
+    "examples": ["The bank was robbed by armed men.", "The police were armed and ready."]
+  },
+  {
+    "text": "arms",
+    "meanings": ["vũ khí, binh giới, binh khí"],
+    "wordTypes": ["noun"],
+    "topics": ["military"],
+    "pronunciation": "",
+    "examples": ["The country is stockpiling arms.", "He was arrested for carrying illegal arms."]
+  },
+  {
+    "text": "army",
+    "meanings": ["quân đội"],
+    "wordTypes": ["noun"],
+    "topics": ["military"],
+    "pronunciation": "ɑ:mi",
+    "examples": ["He joined the army.", "The army was deployed to the conflict zone."]
+  },
+  {
+    "text": "around",
+    "meanings": ["xung quanh, vòng quanh"],
+    "wordTypes": ["adverb", "preposition"],
+    "topics": ["location"],
+    "pronunciation": "ə'raund",
+    "examples": ["They walked around the park.", "There are many shops around here."]
+  },
+  {
+    "text": "arrange",
+    "meanings": ["sắp xếp, sắp đặt, sửa soạn"],
+    "wordTypes": ["verb"],
+    "topics": ["communication"],
+    "pronunciation": "ə'reindʤ",
+    "examples": ["She arranged the flowers in a vase.", "They arranged a meeting for next week."]
+  },
+  {
+    "text": "arrangement",
+    "meanings": ["sự sắp xếp, sắp đặt, sự sửa soạn"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "ə'reindʤmənt",
+    "examples": ["The arrangement of the furniture was perfect.", "They made arrangements for the trip."]
+  },
+  {
+    "text": "arrest",
+    "meanings": ["bắt giữ, sự bắt giữ"],
+    "wordTypes": ["verb", "noun"],
+    "topics": ["law"],
+    "pronunciation": "ə'rest",
+    "examples": ["The police arrested the suspect.", "His arrest was unexpected."]
+  },
+  {
+    "text": "arrival",
+    "meanings": ["sự đến, sự tới nơi"],
+    "wordTypes": ["noun"],
+    "topics": ["travel"],
+    "pronunciation": "ə'raivəl",
+    "examples": ["Her arrival was delayed.", "The arrival of the train was announced."]
+  },
+  {
+    "text": "arrive (at, in)",
+    "meanings": ["đến, tới nơi"],
+    "wordTypes": ["verb"],
+    "topics": ["travel"],
+    "pronunciation": "ə'raiv",
+    "examples": ["She arrived at the airport.", "They arrived in Paris."]
+  },
+  {
+    "text": "arrow",
+    "meanings": ["tên, mũi tên"],
+    "wordTypes": ["noun"],
+    "topics": ["tools"],
+    "pronunciation": "ærou",
+    "examples": ["He shot an arrow at the target.", "The arrow missed its mark."]
+  },
+  {
+    "text": "art",
+    "meanings": ["nghệ thuật, mỹ thuật"],
+    "wordTypes": ["noun"],
+    "topics": ["culture"],
+    "pronunciation": "ɑ:t",
+    "examples": ["She studied art in college.", "The museum has a great collection of art."]
+  },
+  {
+    "text": "article",
+    "meanings": ["bài báo, đề mục"],
+    "wordTypes": ["noun"],
+    "topics": ["communication"],
+    "pronunciation": "ɑ:tikl",
+    "examples": ["She wrote an article for the newspaper.", "The article was well-received."]
+  },
+  {
+    "text": "artificial",
+    "meanings": ["nhân tạo"],
+    "wordTypes": ["adjective"],
+    "topics": ["science"],
+    "pronunciation": ",ɑ:ti'fiʃəl",
+    "examples": ["The flowers are artificial.", "Artificial intelligence is a growing field."]
+  },
+  {
+    "text": "artificially",
+    "meanings": ["nhân tạo"],
+    "wordTypes": ["adverb"],
+    "topics": ["science"],
+    "pronunciation": ",ɑ:ti'fiʃəli",
+    "examples": ["The lake was artificially created.", "The food is artificially flavored."]
+  },
+  {
+    "text": "artist",
+    "meanings": ["nghệ sĩ"],
+    "wordTypes": ["noun"],
+    "topics": ["culture"],
+    "pronunciation": "ɑ:tist",
+    "examples": ["She is a talented artist.", "The artist painted a beautiful landscape."]
+  }
+]
