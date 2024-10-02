@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+import 'common/model/topic.dart';
+import 'common/model/word.dart';
+import 'common/model/word_type.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -20,8 +24,15 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Word journey'),
         ),
-        body: const Center(
-          child: Text('Hello World'),
+        body: Center(
+          child: Text(Word(
+            text: 'Flutter',
+            meanings: ['to flap the wings without flying'],
+            wordTypes: [WordType.verb],
+            topics: [Topic.communication],
+            pronunciation: 'ˈflʌtər',
+            examples: ['The bird fluttered its wings.'],
+          ).toString()),
         ),
       ),
     );
